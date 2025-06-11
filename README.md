@@ -1,4 +1,4 @@
-# -multilingual-audio-visual-system-with-lip-synchronization-using-GAN
+# Multilingual-audio-visual-system-with-lip-synchronization-using-GAN
  # Multilingual-to-English Lip-Synced Video Translation using Wav2Lip
 
 🎥🗣️ This project takes a **video in any language** and generates a new **English-speaking video** where the subject’s lip movements are **perfectly synchronized** with translated English audio. By combining **ASR (Automatic Speech Recognition)**, **Translation**, **Text-to-Speech (TTS)**, and the **Wav2Lip** model, it offers a powerful tool for multilingual video dubbing, accessibility, and global content delivery.
